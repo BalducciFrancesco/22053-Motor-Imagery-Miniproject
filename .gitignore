@@ -1,5 +1,7 @@
-# Prevent raw data from being committed
-eeg-data/*.mat
+# CUSTOM
+*.mat
+*.p
+.DS_Store
 
 # ---------
 
